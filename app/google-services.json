@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315417082532",
+    "project_id": "proyectofinal-90974",
+    "storage_bucket": "proyectofinal-90974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315417082532:android:703e37d52df52c450e0431",
+        "android_client_info": {
+          "package_name": "com.example.inventariocomputo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315417082532-au7r8l87d47sq3ocacakc4jak1ek1ocs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3uoBIhNGvj_2wYGAXaT6En7o4_FDqy-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315417082532-au7r8l87d47sq3ocacakc4jak1ek1ocs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
